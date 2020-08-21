@@ -6,9 +6,9 @@
       "AUTH0_CLIENT_SECRET": "",
       "REDIRECT_URI": "https://wdcc-mern-template.andrew-omgtech.vercel.app/api/callback",
       "POST_LOGOUT_REDIRECT_URI": "https://wdcc-mern-template.andrew-omgtech.vercel.app",
-      "SESSION_COOKIE_SECRET": "@session_cookie_secret",
+      "SESSION_COOKIE_SECRET": "",
       "HOST": "https://wdcc-mern-template.andrew-omgtech.vercel.app",
-      "MONGODB_URI": "@mongodb_uri"
+      "MONGODB_URI": ""
     }
   }
 }
